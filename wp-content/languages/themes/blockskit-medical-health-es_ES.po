@@ -1,0 +1,649 @@
+# Translation of Themes - Blockskit Medical Health in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Blockskit Medical Health package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-20 13:50:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Blockskit Medical Health\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blockskit Medical Health is a modern and versatile WordPress theme created especially to build versatile sites such as medical, health, care, center, clinic, dentist, doctor, cardiology, hospital, med, medication, medicines, polyclinic and all other medical websites without a single line of coding. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics."
+msgstr "Blockskit Medical Health es un tema moderno y versátil para WordPress, diseñado específicamente para crear sitios web versátiles, como sitios de salud, centros de atención, clínicas, dentistas, médicos, cardiología, hospitales, farmacias, policlínicas y cualquier otro sitio web médico, sin necesidad de escribir una sola línea de código. Ofrece edición completa del sitio, lo que permite personalizar fácilmente todos los aspectos de tu sitio. Con múltiples plantillas, patrones y variaciones de estilo, se adapta a diferentes estilos."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blockskit Medical Health"
+msgstr "Blockskit Medical Health"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr "XX grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr "X grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr "X pequeño"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr "XX pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr "XXXX grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr "XXX grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr "XX grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr "X grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr "X pequeño"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Light"
+msgstr "Claro"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Pure Black"
+msgstr "Negro puro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Pure White"
+msgstr "Blanco puro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr "Heredado"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr "Color actual"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr "Transparente"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral"
+msgstr "Neutro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Outline"
+msgstr "Contorno"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light"
+msgstr "Claro"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Surface"
+msgstr "Superficie"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body"
+msgstr "Cuerpo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Highlight"
+msgstr "Resaltado"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr "Encabezado"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Accent Text"
+msgstr "Texto con énfasis secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Accent"
+msgstr "Énfasis secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Text"
+msgstr "Texto enfatizado"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Énfasis"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: patterns/testimonials.php:70
+msgid "Marry Jane"
+msgstr "Marry Jane"
+
+#: patterns/testimonials.php:42 patterns/testimonials.php:74
+msgid "Patient"
+msgstr "Paciente"
+
+#: patterns/testimonials.php:38
+msgid "Jonas Scottman"
+msgstr "Jonas Scottman"
+
+#: patterns/testimonials.php:32 patterns/testimonials.php:64
+msgid "Cillum magnis omnis dolores mauris debitis, et arcu quis debitis. Quam primis. Curae exercitationem voluptatem fusce, totam enim Quam primis."
+msgstr "Cillum magnis omnis dolores mauris debitis, et arcu quis debitis. Quam primis. Curae exercitationem voluptatem fusce, totam enim Quam primis."
+
+#: patterns/testimonials.php:12
+msgid "What Our Patients Say"
+msgstr "Lo que dicen nuestros pacientes"
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr "Recomendaciones"
+
+#: patterns/template-single.php
+msgctxt "Pattern title"
+msgid "Template Single"
+msgstr "Plantilla individual"
+
+#: patterns/template-single-product.php:57
+msgid "Related products"
+msgstr "Productos relacionados"
+
+#: patterns/template-single-product.php:15
+msgid "Single Product"
+msgstr "Producto individual"
+
+#: patterns/template-single-product.php
+msgctxt "Pattern title"
+msgid "Template Single Product"
+msgstr "Plantilla de producto individual"
+
+#: patterns/template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr "Lo siento, pero nada coincidió con tus términos de búsqueda. ¿Intentas otra búsqueda?"
+
+#: patterns/template-search.php
+msgctxt "Pattern title"
+msgid "Template Search"
+msgstr "Plantilla de búsqueda"
+
+#: patterns/template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgstr "No se han encontrado productos que coincidan con tu selección."
+
+#: patterns/template-product-search-results.php
+msgctxt "Pattern title"
+msgid "Template Product Search Results"
+msgstr "Plantilla de resultados de búsqueda de productos"
+
+#: patterns/template-page.php
+msgctxt "Pattern title"
+msgid "Template Page"
+msgstr "Plantilla de página"
+
+#: patterns/template-page-no-title.php
+msgctxt "Pattern title"
+msgid "Template Page No Title"
+msgstr "Plantilla de página sin título"
+
+#: patterns/template-page-no-gap.php
+msgctxt "Pattern title"
+msgid "Template Page No Gap"
+msgstr "Plantilla de página sin espacios"
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr "Dirección de facturación"
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr "Dirección de envío"
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr "Descargas"
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr "Detalles del pedido"
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr "Confirmación del pedido"
+
+#: patterns/template-order-confirmation.php
+msgctxt "Pattern title"
+msgid "Template Order Confirmation"
+msgstr "Plantilla de confirmación del pedido"
+
+#: patterns/template-index.php
+msgctxt "Pattern title"
+msgid "Template Index"
+msgstr "Plantilla de índice"
+
+#: patterns/template-full-width.php
+msgctxt "Pattern title"
+msgid "Template Full Width"
+msgstr "Plantilla de ancho completo"
+
+#: patterns/template-checkout.php
+msgctxt "Pattern title"
+msgid "Template Checkout"
+msgstr "Plantilla de finalizar compra"
+
+#: patterns/template-cart.php:220
+msgid "New in store"
+msgstr "Nuevo en la tienda"
+
+#: patterns/template-cart.php:212
+msgid "Browse store"
+msgstr "Explora la tienda"
+
+#: patterns/template-cart.php:208
+msgid "Your cart is currently empty!"
+msgstr "¡Tu carrito está actualmente vacío!"
+
+#: patterns/template-cart.php:26 patterns/template-cart.php:89
+#: patterns/template-cart.php:152
+msgid "You may be interested in…"
+msgstr "Puede que te interese…"
+
+#: patterns/template-cart.php
+msgctxt "Pattern title"
+msgid "Template Cart"
+msgstr "Plantilla del carrito"
+
+#: patterns/template-blog-listing.php
+msgctxt "Pattern title"
+msgid "Template Blog Listing"
+msgstr "Plantilla del catálogo del blog"
+
+#: patterns/template-archive.php
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr "Plantilla de archivo"
+
+#: patterns/template-archive-product.php
+msgctxt "Pattern title"
+msgid "Template Archive Product"
+msgstr "Plantilla del archivo de productos"
+
+#: patterns/template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgstr "No se ha podido encontrar esta página. ¿Quizá quieras probar una búsqueda?"
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr "Plantilla 404"
+
+#: patterns/team.php:96
+msgid "View All Team"
+msgstr "Ver todo el equipo"
+
+#: patterns/team.php:89
+msgid "Top Searched Specialties"
+msgstr "Especialidades más buscadas"
+
+#: patterns/team.php:79
+msgid "Trust care is health care, but easy."
+msgstr "La asistencia fiduciaria es asistencia sanitaria, pero fácil."
+
+#: patterns/team.php:69
+msgid "Optio aliquet autem porro dictum montes integer leo anim faucibus. Recusandae habitant, illo cumque, voluptatum integer leo anim."
+msgstr "Optio aliquet autem porro dictum montes integer leo anim faucibus. Recusandae habitant, illo cumque, voluptatum integer leo anim."
+
+#: patterns/team.php:65
+msgid "Meet Our Expert Doctors"
+msgstr "Conoce a nuestros médicos expertos"
+
+#: patterns/team.php:56
+msgid "Cardiologist"
+msgstr "Cardiólogo"
+
+#: patterns/team.php:52
+msgid "Dr. Timothy Davis"
+msgstr "Dr. Timothy Davis"
+
+#: patterns/team.php:32
+msgid "Dentist"
+msgstr "Dentista"
+
+#: patterns/team.php:28
+msgid "Dr. Jennifer Lee"
+msgstr "Dra. Jennifer Lee"
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team"
+msgstr "Equipo"
+
+#: patterns/services.php:104
+msgid "View All Services"
+msgstr "Ver todos los servicios"
+
+#: patterns/services.php:92
+msgid "Surgery"
+msgstr "Cirugía"
+
+#: patterns/services.php:72
+msgid "Orthopedics"
+msgstr "Ortopedia"
+
+#: patterns/services.php:52
+msgid "Neurology"
+msgstr "Neurología"
+
+#: patterns/services.php:36 patterns/services.php:56 patterns/services.php:76
+#: patterns/services.php:96
+msgid "Velit donec animi ipsum aute adipisci odit totam."
+msgstr "Velit donec animi ipsum aute adipisci odit totam."
+
+#: patterns/services.php:32
+msgid "Cardiology"
+msgstr "Cardiología"
+
+#: patterns/services.php:16 patterns/testimonials.php:16
+msgid "Recusandae habitant, illo cumque, voluptatum, nonummy."
+msgstr "Recusandae habitant, illo cumque, voluptatum, nonummy."
+
+#: patterns/services.php:16 patterns/testimonials.php:16
+msgid "Optio aliquet autem porro dictum montes integer leo anim faucibus."
+msgstr "Optio aliquet autem porro dictum montes integer leo anim faucibus."
+
+#: patterns/services.php:12
+msgid "Provide Our Best services"
+msgstr "Prestar nuestros mejores servicios"
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Servicios"
+
+#: patterns/latest-posts.php:32
+msgid "View All News"
+msgstr "Ver todas las noticias"
+
+#: patterns/latest-posts.php:26
+msgid "Update Articles"
+msgstr "Actualizar artículos"
+
+#: patterns/latest-posts.php:22
+msgid "Update News"
+msgstr "Actualizar noticias"
+
+#: patterns/latest-posts.php:13
+msgid "Keep Update With News &amp; Blog."
+msgstr "Mantente al día con las noticias y el blog."
+
+#: patterns/latest-posts.php
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr "Inicio"
+
+#: patterns/hero-banner.php:38
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: patterns/hero-banner.php:32
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: patterns/hero-banner.php:26
+msgid "Ex potenti culpa quo perspiciatis. Fugiat! Aenean ut proin sit pellentesque, ante quo illum, quos atque? Harum a molestie faucibus, eveniet adipiscing eleifend posuere."
+msgstr "Ex potenti culpa quo perspiciatis. Fugiat! Aenean ut proin sit pellentesque, ante quo illum, quos atque? Harum a molestie faucibus, eveniet adipiscing eleifend posuere."
+
+#: patterns/hero-banner.php:21
+msgid "Best Reliable Medical Service"
+msgstr "El mejor servicio médico de confianza"
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr "Banner de la sección destacada"
+
+#: patterns/header.php:36
+msgid "Get Appointment"
+msgstr "Obtén una cita"
+
+#: patterns/header.php:31
+msgid "Contact"
+msgstr "Contacto"
+
+#: patterns/header.php:30
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/header.php:29
+msgid "Team"
+msgstr "Equipo"
+
+#: patterns/header.php:28
+msgid "Service"
+msgstr "Servicio"
+
+#: patterns/header.php:27
+msgid "About"
+msgstr "Acerca de"
+
+#: patterns/header.php:26
+msgid "Home"
+msgstr "Inicio"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Cabecera"
+
+#: patterns/header-home.php
+msgctxt "Pattern title"
+msgid "Header Home"
+msgstr "Cabecera de la página de inicio"
+
+#: patterns/footer.php:115
+msgid "· All rights reserved"
+msgstr "· Todos los derechos reservados"
+
+#: patterns/footer.php:109
+msgid "Copyright © %d ·"
+msgstr "Copyright © %d ·"
+
+#: patterns/footer.php:90
+msgid "Support"
+msgstr "Soporte"
+
+#: patterns/footer.php:74
+msgid "Resources"
+msgstr "Recursos"
+
+#: patterns/footer.php:54
+msgid "Company"
+msgstr "Compañía"
+
+#: patterns/footer.php:38
+msgid "Products"
+msgstr "Productos"
+
+#: patterns/footer.php:20
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: patterns/about.php:40
+msgid "Years of experience"
+msgstr "Años de experiencia"
+
+#: patterns/about.php:36
+msgid "25+"
+msgstr "Más de 25"
+
+#: patterns/about.php:22
+msgid "More About Us"
+msgstr "Más sobre nosotros"
+
+#: patterns/about.php:17 patterns/latest-posts.php:17
+msgid "Necessitatibus hymenaeos facilis earum feugiat neque nihil beatae soluta a, sodales quam possimus sed suspendisse voluptas imperdiet ipsam posuere bibendum ipsa."
+msgstr "Necessitatibus hymenaeos facilis earum feugiat neque nihil beatae soluta a, sodales quam possimus sed suspendisse voluptas imperdiet ipsam posuere bibendum ipsa."
+
+#: patterns/about.php:13
+msgid "Consult A Doctor Anywhere, Anytime"
+msgstr "Consulta a un médico en cualquier momento y lugar"
+
+#: patterns/about.php
+msgctxt "Pattern title"
+msgid "About"
+msgstr "Acerca de"
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgstr "Patrones del tema"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blockskit.com"
+msgstr "https://blockskit.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "BlockskitDev"
+msgstr "BlockskitDev"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blockskit.com/blockskit-medical-health/"
+msgstr "https://blockskit.com/blockskit-medical-health/"
